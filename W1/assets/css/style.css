@@ -1,15 +1,15 @@
 body {
-    font-family: courier;
+	font-family: courier;
 }
 
 a {
-	background-color: gray;
+	border-style: dotted;
 }
 a:link {
 	color: orange;
 }
 a:visited {
-	color: yellow;
+	color: cyan;
 }
 a:hover {
 	color: red;
@@ -19,7 +19,7 @@ a:active {
 }
 
 nav > a {
-	font-size: 30;
+	font-size: 25px;
 }
 
 #para1
@@ -31,4 +31,17 @@ nav > a {
 .center {
     text-align: center;
     color: purple;
+}
+
+h1 {
+	font-size: 30px;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 18px;
+	color: grey;
 }
