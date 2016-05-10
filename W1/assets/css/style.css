@@ -1,0 +1,34 @@
+body {
+    font-family: courier;
+}
+
+a {
+	background-color: gray;
+}
+a:link {
+	color: orange;
+}
+a:visited {
+	color: yellow;
+}
+a:hover {
+	color: red;
+}
+a:active {
+	color: blue;
+}
+
+nav > a {
+	font-size: 30;
+}
+
+#para1
+{
+	text-align: center;
+    color: red;
+}
+
+.center {
+    text-align: center;
+    color: purple;
+}
