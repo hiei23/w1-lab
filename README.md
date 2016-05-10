@@ -1,3 +1,3 @@
-# w1-lab-YOURTEAM
+# w1-lab-SM
 
 Si Hua, Meichen
